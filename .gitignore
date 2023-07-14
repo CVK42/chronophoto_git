@@ -1,0 +1,4 @@
+*.JPEG
+*.txt
+*.pkl
+*-checkpoint.ipynb
